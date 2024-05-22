@@ -1,0 +1,9 @@
+[2024-05-21 20:01:20] [ INFO ] [OdontologoEnMemoria:22] Odontologo guardado en memoriaOdontologo{id=1, matricula='23456', nombre='John', apellido='Wick'}
+[2024-05-21 20:06:08] [ INFO ] [OdontologoEnMemoria:22] Odontologo guardado en memoriaOdontologo{id=1, matricula='23456', nombre='John', apellido='Wick'}
+[2024-05-21 20:06:33] [ INFO ] [OdontologoEnMemoria:22] Odontologo guardado en memoriaOdontologo{id=1, matricula='38790', nombre='Beatrix', apellido='Kiddo'}
+[2024-05-21 20:26:42] [ INFO ] [OdontologoIDaoH2:36] odontologo agregadoOdontologo{id=null, matricula='598469', nombre='juliana', apellido='vargas'}
+[2024-05-21 20:27:00] [ INFO ] [OdontologoIDaoH2:36] odontologo agregadoOdontologo{id=null, matricula='294765', nombre='andres', apellido='pinzon'}
+[2024-05-21 20:27:00] [ INFO ] [OdontologoIDaoH2:79] odnotologoOdontologo{id=1, matricula='12010215', nombre='ALEJANDRA', apellido='BELTRAN'}
+[2024-05-21 20:27:00] [ INFO ] [OdontologoIDaoH2:79] odnotologoOdontologo{id=2, matricula='294765', nombre='andres', apellido='pinzon'}
+[2024-05-21 20:27:17] [ INFO ] [OdontologoEnMemoria:22] Odontologo guardado en memoriaOdontologo{id=1, matricula='23456', nombre='John', apellido='Wick'}
+[2024-05-21 20:27:33] [ INFO ] [OdontologoEnMemoria:22] Odontologo guardado en memoriaOdontologo{id=1, matricula='38790', nombre='Beatrix', apellido='Kiddo'}
